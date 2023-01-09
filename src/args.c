@@ -7,7 +7,7 @@ void usage() {
           "       -b          generate binary file\n"
           "       -n <NUM>    the number of values to create (default = 2^25)\n"
           "       -o <FILE>   give name to output file (default = "
-          "pseudorandomnumbers.txt\n\n");
+          "pseudorandomnumbers.txt)\n\n");
   exit(-1);
 }
 
